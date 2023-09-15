@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block blck %}  
+<title> ss</title>
+{% endblock %}
+
+{% block body %} 
+<table >
+    <tr>
+        <th>name</th>
+        <th>email</th>
+        <th>password</th>
+    </tr>
+    <tr>
+       <td></td>
+       <td></td>  
+       <td> <a href="">update</a>
+        <br>
+        <a href="">delete</a></td>
+    </tr>
+</table> 
+<form method='post'>
+    <input type="text" name="content" id = "content">
+    <input type="submit" value="Add_Task">  
+{% endblock  body%}
