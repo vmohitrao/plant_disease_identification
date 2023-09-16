@@ -15,4 +15,3 @@ zipp==3.15.0
 requests
 torch
 torchvision
-json
