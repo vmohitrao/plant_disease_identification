@@ -1,0 +1,8 @@
+['Bacterial_spot', 'Black_rot', 'Cedar_apple_rust',
+       'Cercospora_leaf_spot Gray_leaf_spot', 'Common_rust_',
+       'Early_blight', 'Esca_(Black_Measles)',
+       'Haunglongbing_(Citrus_greening)', 'Healthy',
+       'Isariopsis_Leaf_Spot', 'Late_blight', 'Leaf_Mold', 'Leaf_scorch',
+       'Northern_Leaf_Blight', 'Powdery_mildew', 'Septoria_leaf_spot',
+       'Spider_mites Two-spotted_spider_mite', 'Target_Spot',
+       'Yellow_Leaf_Curl_Virus', 'mosaic_virus', 'scab']
