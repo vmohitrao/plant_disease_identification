@@ -22,7 +22,7 @@ with open("classes.txt","r") as file:
 
 model = torch.load("Image_model.pt",map_location=torch.device('cpu'))
 model.eval()
-from Image.going_modular.going_modular.predictions import pred_and_plot_image
+from Images.going_modular.going_modular.predictions import pred_and_plot_image
 
 # Setup custom image path
 custom_image_path = "PotatoHealthy1.JPG"
