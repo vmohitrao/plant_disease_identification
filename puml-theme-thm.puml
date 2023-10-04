@@ -35,8 +35,7 @@
     !$PUML_OUTLINE = "false"
 !endif
 ''
-skinparam BackgroundColor $PUML_BGCOLOR
-skinparam useBetaStyle false
+
 ''
 '' Supplementary Colors
 ''
