@@ -5,6 +5,7 @@
 ''
 !$PUML_THEME = "aws-orange"
 !$THEME      = "aws-orange"
+!$PUML_BGCOLOR = "transparent"
 ''
 '' User can specify the PUML_BGCOLOR via command line or set this variable before
 '' loading this theme file. PUML_BGCOLOR is the background color of the image that is 
